@@ -27,7 +27,7 @@ Predict whether a customer will **accept the company's latest marketing campaign
 | Leakage control | Imputer/scaler/encoder live inside a scikit-learn `Pipeline`, fitted on the training set only |
 
 ## 3. GitHub Repository Link
-`<ADD YOUR REPO LINK HERE>`
+https://github.com/ShrutiSinha210294/Machine-Learning
 
 ## 4. Models Used
 Configurations: Logistic Regression (max_iter=1000) · Decision Tree (max_depth=5, min_samples_leaf=10) · kNN (k=7) · Gaussian Naive Bayes · Random Forest (300 trees). All with seed 42.
